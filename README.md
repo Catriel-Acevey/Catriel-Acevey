@@ -38,8 +38,15 @@
    <p><label>aceveycatriel@gmail.com</label></p>
 
 ******
+<p align="center">
+    <img align="center" alt="Catriel Acevey GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catriel-Acevey" />
+</p>
+
+******
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catriel-Acevey)](https://github.com/anuraghazra/github-readme-stats)
 
+******
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Catriel-Acevey&show_icons=true&count_private=true)  
-
+</p>
