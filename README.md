@@ -2,6 +2,12 @@
 
 ******
 
+<p align="center">
+    <img align="center" alt="Catriel Acevey GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Catriel-Acevey&show_icons=true&count_private=true" />
+</p> 
+
+******
+
 ## Habilidades 
 
 <p width='40%' height="100%"align="center"> 
@@ -38,13 +44,19 @@
    <p><label>aceveycatriel@gmail.com</label></p>
 
 ******
-<p align="center">
-    <img align="center" alt="Catriel Acevey GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catriel-Acevey" />
-</p>
+
+## Algunos proyectos 
+
+### Countries-APP
+💻 - Tecnologías usadas: HTML - CSS - Javascript - React - Redux - Node.js - Express - Sequelize
+
+<img align="left" width= "350px" src='app-landing.png' />
+<img align="center" width= "350px" src='app-home.png' />
+<img align="left" width= "350px" src='app-create.png' />
+<img align="center" width= "350px" src='app-details.png' />
 
 ******
 
 <p align="center">
-    <img align="center" alt="Catriel Acevey GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Catriel-Acevey&show_icons=true&count_private=true" />
-</p> 
-
+    <img align="center" alt="Catriel Acevey GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catriel-Acevey" />
+</p>
