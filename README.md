@@ -1,4 +1,4 @@
-<img src="https://github.com/Catriel-Acevey/Catriel-Acevey/blob/main/Readme-files/Banner%20github.png?raw=true">
+<img src="https://github.com/Catriel-Acevey/Catriel-Acevey/blob/main/Readme-files/Banner%20github.gif?raw=true">
 
 
 ******
