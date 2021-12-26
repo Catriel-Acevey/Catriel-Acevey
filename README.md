@@ -41,6 +41,9 @@
       <a href="https://www.linkedin.com/in/catriel-acevey/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Catriel Acevey LinkedIn Profile" height="50" width="50">
       </a>
+      <a href="https://catriel-portfolio.web.app/">
+         <img src="https://user-images.githubusercontent.com/56076984/147405001-29a5bd4f-df76-4d44-8bd3-346a7e3c3ac8.png" alt="Catriel Acevey Portfolio" height="50" width="50">
+      </a>
    </p>
    <p><label>aceveycatriel@gmail.com</label></p>
 
