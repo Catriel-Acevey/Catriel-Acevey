@@ -66,7 +66,7 @@
 <img align="left" width= "500px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/desktop-posts.png?raw=true' />
 <img align="center" width= "200px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/mobile-posts.JPG?raw=true' />
 
-#### Puedes ver más haciendo Click [Aquí](https://github.com/Catriel-Acevey/PI-Countries-main)
+#### Puedes ver más haciendo Click [Aquí](https://github.com/Catriel-Acevey/PI-Countries-main) o probarla [Aquí](https://curso-mindhub.web.app/)
 
 ******
 
