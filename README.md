@@ -61,8 +61,10 @@
 ### Northside Youth Soccer League-APP
 💻 - Tecnologías usadas: HTML - CSS - Bootstrap - Javascript - Firebase
 
-<img align="center" width= "700px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/desktop-home.png?raw=true' />
-<img align="center" width= "250px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/mobile-home.JPG?raw=true' />
+<img align="left" width= "500px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/desktop-home.png?raw=true' />
+<img align="center" width= "200px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/mobile-home.JPG?raw=true' />
+<img align="left" width= "500px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/desktop-posts.png?raw=true' />
+<img align="center" width= "200px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/mobile-posts.JPG?raw=true' />
 
 #### Puedes ver más haciendo Click [Aquí](https://github.com/Catriel-Acevey/PI-Countries-main)
 
