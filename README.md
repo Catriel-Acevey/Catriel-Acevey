@@ -1,4 +1,5 @@
 ![](https://media-private.canva.com/Ut9mo/MAEzEcUt9mo/1/s2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20211220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T034810Z&X-Amz-Expires=38109&X-Amz-Signature=287f4f5f25ba4c495e3519b5e63c51d6a4650e4f89c09d62485c5ed69fe03e8e&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2020%20Dec%202021%2014%3A23%3A19%20GMT)
+![](https://video-private-assets.canva.com/VAEznUqLEy0/v/b131c9845a.mp4?exp=1640504100000&cf-ck=eWy9jClWb2AsTNRAvyTi-HKcx2zb1VyUQe-GYmSg47c&cf-sig=046j4xxB5kG-fFdBxz1Z0XXeTljpnmhi8iRDL0X6KLY&cf-sig-kid=CO7cCjZ_YiI=&sig=fRCtcotJu5uKeirQbUdMmTv8CDhbc8Aldmc8_NfBhp8&sig-kid=GzFgFdhXD-Q=)
 
 ******
 
@@ -61,7 +62,7 @@
 💻 - Tecnologías usadas: HTML - CSS - Bootstrap - Javascript - Firebase
 
 <img align="center" width= "700px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/desktop-home.png?raw=true' />
-<img align="center" width= "350px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/mobile-home.JPG?raw=true' />
+<img align="center" width= "250px" src='https://github.com/Catriel-Acevey/NYSL/blob/main/preview/mobile-home.JPG?raw=true' />
 
 #### Puedes ver más haciendo Click [Aquí](https://github.com/Catriel-Acevey/PI-Countries-main)
 
